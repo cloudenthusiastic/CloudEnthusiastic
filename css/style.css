@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Kaushan Script", cursive;
   margin-bottom: 30px;
   font-size: 50px;
-  line-height: 1.3;
+  line-height: 2;
   font-weight: 300;
   -webkit-transform: rotate(-5deg);
   -moz-transform: rotate(-5deg);
@@ -357,13 +357,13 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 2;
+  zoom: 1;
   *display: inline;
 }
 .fh5co-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 2;
+  zoom: 1;
   *display: inline;
   color: #FF9000;
   padding-left: 10px;
@@ -382,13 +382,13 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 2;
+  zoom: 1;
   *display: inline;
 }
 #fh5co-about .fh5co-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 2;
+  zoom: 1;
   *display: inline;
   color: #fff;
   background: #2F3C4F;
